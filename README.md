@@ -10,7 +10,7 @@ The code is provided for research purposes only and without any warranty. Any co
 @inproceedings{xu2020multigraph,
   title={Multi-Graph Tensor Networks},
   author={Yao Lei Xu and Kriton Konstantinidis and Danilo P. Mandic},
-  booktitle={First Workshop on Quantum Tensor Networks in Machine Learning, 34th Conference on Neural Information Processing Systems (NeurIPS 2020)},
+  booktitle={the First Workshop on Quantum Tensor Networks in Machine Learning, 34th Conference on Neural Information Processing Systems (NeurIPS)},
   year={2020}
 }
 ```
